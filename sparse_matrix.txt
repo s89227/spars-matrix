@@ -1,0 +1,7 @@
+Write a program to achieve the following goals:
+1.Randomly generate two sparse matrices A[ ]6*6 and B[ ]6*6 
+o 6 < The number of nonzero elements <18 
+o Each element of the two sparse matrices is between 0 to10 
+o You can directly generated the sparse matrices A[ ]6*6 and B[ ]6*6 in the forms of Figure 2.5 
+2. (30%) Transpose B[ ] and store the result in C[ ]6*6 (Refer to Program 2.9)
+3.Multiply A[ ] and B[ ] and store the result in D[ ] 6*6 (Refer to Program 2.10)
